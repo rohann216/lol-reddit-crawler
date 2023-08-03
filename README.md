@@ -1,5 +1,14 @@
 # lol-reddit-crawler
 
+## Keywords used as of 8/3/2023
+['Creep Score', 'Last Hit', 'Last Hitting', 'Last-hit', 'Last-hitting', 
+'Kiting', 'Trading', 'Skillshots', 'KDA', 'Clear Speed', 'Combos', 'Communication', 
+'Smite timing', 'Mechanics', 'APM', 'Camera', 'Mousework', 'Button Pressing', 'Micro', 
+'Inputs', 'Mechanical Skill', 'Pings', 'Micromechanics', 'Clicking', 'Clicks', 'Mouse', 'Movement', 
+'Spacing', 'Click', 'Click Duration', 'Tracking', 'Aiming', 'Tab', 'Edge Panning', 'Chat', 'Outplay', 
+'Pattern', 'Smart Cast', 'Quick Cast', 'A Click', 'Attack Move', 'Attack Command', 'Submovements', 
+'Fundamentals', 'cancel', 'auto', 'pilot', 'piloting', 'Animation Canceling', 'Animation Cancel']
+
 ## PRAWcrawler_wide
 - looks for posts that have at least one keyword in the title
 ### Post stats as of 8/3/2023
