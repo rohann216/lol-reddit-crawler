@@ -14,4 +14,4 @@
 - uses lda model to topic model the filtered posts and outputs post stats (count/avg upvotes/avg comments)
 - also uses the model to create five word clouds that represent 5 topics found in the posts (represented by 20 frequently used words)
 ### Example narrow word cloud
-![image](https://github.com/rohann216/lol-reddit-crawler/assets/122564738/ce0a89a6-1412-40fb-ac9b-9c25b4b9026f)
+![image](https://github.com/rohann216/lol-reddit-crawler/assets/122564738/3c21588a-c782-4082-86a2-402c472c695e)
