@@ -3,7 +3,7 @@
 ## PRAWcrawler_wide
 - looks for posts that have at least one keyword in the title
 ### Post stats as of 8/3/2023
-![image](https://github.com/rohann216/lol-reddit-crawler/assets/122564738/81cb6e72-d374-4106-b294-10112c31099a)
+![image](https://github.com/rohann216/lol-reddit-crawler/assets/122564738/d2e8b7ba-eee4-43c9-81f0-24216ce44fc9)
 
 ## PRAWcrawler_narrow
 - looks for posts that have at least 6 keywords in the title or selftext
