@@ -8,7 +8,7 @@
 'Spacing', 'Click', 'Click Duration', 'Tracking', 'Aiming', 'Tab', 'Edge Panning', 'Chat', 'Outplay', 
 'Pattern', 'Smart Cast', 'Quick Cast', 'A Click', 'Attack Move', 'Attack Command', 'Submovements', 
 'Fundamentals', 'cancel', 'auto', 'pilot', 'piloting', 'Animation Canceling', 'Animation Cancel']
-Count: 50
+- Number of keywords: 50
 
 ## PRAWcrawler_wide
 - looks for posts that have at least one keyword in the title
